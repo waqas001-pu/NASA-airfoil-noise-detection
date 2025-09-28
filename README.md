@@ -31,7 +31,7 @@ This project applies **PySpark ML** to the NASA Airfoil Self-Noise dataset to pr
 
 ## 📊 Dataset
 
-The dataset comes from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Airfoil+Self-Noise).
+The dataset comes from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/291/airfoil+self+noise).
 It contains **1,503 samples** with 5 input variables and 1 target variable (scaled sound pressure level).
 
 ## 🛠️ Tech Stack
