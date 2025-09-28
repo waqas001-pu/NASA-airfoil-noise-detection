@@ -13,7 +13,7 @@ This project applies **PySpark ML** to the NASA Airfoil Self-Noise dataset to pr
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/airfoil-noise-detection.git
+   git clone https://github.com/waqas001-pu/NASA-airfoil-noise-detection.git
    cd airfoil-noise-detection
    ```
 
